@@ -1,0 +1,35 @@
+# Uriel WP Settings Page Plugin
+
+The Uriel WP Settings Page Plugin is a WordPress plugin that allows you to easily create a settings page with reusable text fields for your WordPress website.
+
+## Features
+
+- Simple and intuitive settings page creation.
+- Reusable text fields for easy content management.
+- Customizable options to fit your website's needs.
+
+## Installation
+
+1. Download the plugin zip file.
+2. Extract the contents to the `/wp-content/plugins/uriel-wp-settings-page` directory.
+3. Activate the plugin through the WordPress admin panel.
+
+## Usage
+
+1. Go to the WordPress admin panel and navigate to the "Settings" menu.
+2. Click on the "Uriel WP Settings" option.
+3. Customize the settings and text fields according to your needs.
+4. Save the changes and enjoy the updated settings page on your website.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request on the [GitHub repository](https://github.com/urieljsoto/wp-settings-page-sample).
+
+## License
+
+## License
+This plugin is released under the GNU General Public License v2.0 or later. You can find the full text of the license [here](https://www.gnu.org/licenses/gpl-2.0.html).
+
+## Support
+
+If you encounter any issues or have any questions, please feel free to contact our support team at uriel@vluxdesigns.com.
